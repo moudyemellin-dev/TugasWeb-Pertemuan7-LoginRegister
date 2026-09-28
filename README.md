@@ -42,6 +42,6 @@ Jalankan Apache melalui XAMPP, kemudian buka:
 
 `http://localhost/TugasWeb-Pertemuan7-LoginRegister/`
 
-## Mata Kuliah
+## Live Demo
 
-Pemrograman Web
+🌐 [Buka Website Tugas 7 Login Register PHP](https://moudy-loginregister.infinityfree.io)
